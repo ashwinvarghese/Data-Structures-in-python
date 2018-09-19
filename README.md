@@ -10,3 +10,4 @@
 ###### ISLR videos --https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 ###### https://www.dataschool.io/start/
 ###### http://partiallyderivative.com/podcast/2017/03/28/learning-machine-learning
+###### https://github.com/ashwinvarghese/machine-learning-for-software-engineers
