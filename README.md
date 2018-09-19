@@ -9,3 +9,4 @@
 ######  https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/ 
 ###### ISLR videos --https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 ###### https://www.dataschool.io/start/
+###### http://partiallyderivative.com/podcast/2017/03/28/learning-machine-learning
