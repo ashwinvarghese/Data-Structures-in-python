@@ -6,3 +6,6 @@
 ###### DS overview -https://learn-anything.xyz/data-science 
 ###### IMG   https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png
 ###### -- http://p.migdal.pl/2016/03/15/data-science-intro-for-math-phys-background.html 
+######  https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/ 
+###### ISLR videos --https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
+###### https://www.dataschool.io/start/
