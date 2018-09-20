@@ -11,3 +11,6 @@
 ###### https://www.dataschool.io/start/
 ###### http://partiallyderivative.com/podcast/2017/03/28/learning-machine-learning
 ###### https://github.com/ashwinvarghese/machine-learning-for-software-engineers
+##### https://machinelearningmastery.com/start-here/#getstarted
+##### https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/
+
