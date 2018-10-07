@@ -14,3 +14,23 @@
 ##### https://machinelearningmastery.com/start-here/#getstarted
 ##### https://www.reddit.com/r/datascience/comments/8jneyb/ds_book_suggestionsrecommendations_megathread/
 
+
+#####  https://www.reddit.com/r/MachineLearning/comments/8hdby5/d_overview_of_machine_learning_for_newcomers/ 
+#####  https://www.kdnuggets.com/2018/09/essential-math-data-science.html 
+#####  https://github.com/ashwinvarghese/dive-into-machine-learning 
+#####  https://github.com/ashwinvarghese/100-Days-Of-ML-Code  
+#####  https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html 
+#####  https://www.kdnuggets.com/2018/09/essential-math-data-science.html 
+#####   http://learnds.com/ 
+#####   https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_table_of_contents_ml/py_table_of_contents_ml.html 
+#####   http://jacksimpson.co/materials-for-learning-machine-learning/ 
+#####   http://xyclade.github.io/MachineLearning/ 
+#####    http://xyclade.github.io/MachineLearning/ 
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
