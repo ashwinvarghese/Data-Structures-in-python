@@ -34,3 +34,4 @@
 #####
 #####
 ##### http://datasciencemasters.org/
+##### https://medium.com/@hepner.thomas/my-journey-to-self-taught-data-scientist-ef014a44c704
